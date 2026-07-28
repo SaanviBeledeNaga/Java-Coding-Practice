@@ -1,5 +1,5 @@
 # Java-Coding-Practice
-### A collection of problem statements and Java solutions, organized by topic for quick reference. The problems are from LeetCode and GeeksforGeeeks
+### A collection of problem statements and Java solutions, organized by topic for quick reference. The problems are from LeetCode and GeeksforGeeeks.
 <!---GeeksforGeeks Start-->
 # GeeksforGeeks problems sorted by difficulty
 ## Basic
