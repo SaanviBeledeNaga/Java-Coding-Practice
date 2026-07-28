@@ -6,6 +6,14 @@
 |  |
 | ------- |
 | [Basic problems](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/Difficulty:%20Basic) |
+## Easy
+|  |
+| ------- |
+| [Easy problems](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/Difficulty:%20Easy) |
+## Medium
+|  |
+| ------- |
+| [Medium problems](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/Difficulty:%20Medium) |
 <!---GeeksforGeeks End-->
 <!---LeetCode Topics Start-->
 # LeetCode Topics
