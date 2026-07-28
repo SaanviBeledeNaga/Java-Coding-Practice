@@ -1,7 +1,12 @@
 # Java-Coding-Practice
 ### A collection of problem statements and Java solutions, organized by topic for quick reference. The problems are from LeetCode and GeeksforGeeeks
-<!---GeeksForGeeks-->
-
+<!---GeeksforGeeks Start-->
+# GeeksforGeeks problems sorted by difficulty
+## Basic
+|  |
+| ------- |
+| [Basic problems](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/Difficulty:%20Basic) |
+<!---GeeksforGeeks End-->
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
