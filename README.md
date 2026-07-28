@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -27,5 +28,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
