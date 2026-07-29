@@ -23,6 +23,7 @@
 | [0001-two-sum](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0283-move-zeroes) |
@@ -54,11 +55,13 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0134-gas-station) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0055-jump-game) |
 ## Simulation
 |  |
 | ------- |
