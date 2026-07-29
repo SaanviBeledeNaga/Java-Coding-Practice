@@ -26,6 +26,7 @@
 | [0134-gas-station](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0283-move-zeroes) |
+| [2460-apply-operations-to-an-array](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0283-move-zeroes) |
+| [2460-apply-operations-to-an-array](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/2460-apply-operations-to-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2460-apply-operations-to-an-array](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
