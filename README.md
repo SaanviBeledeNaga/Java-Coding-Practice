@@ -26,6 +26,7 @@
 | [0055-jump-game](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0134-gas-station) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0283-move-zeroes) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0392-is-subsequence) |
 | [2460-apply-operations-to-an-array](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/2460-apply-operations-to-an-array) |
@@ -86,4 +88,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
