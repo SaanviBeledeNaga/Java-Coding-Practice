@@ -26,6 +26,7 @@
 | [0055-jump-game](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0283-move-zeroes) |
 | [2460-apply-operations-to-an-array](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
@@ -66,4 +67,8 @@
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/2460-apply-operations-to-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
