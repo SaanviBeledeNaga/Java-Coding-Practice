@@ -52,6 +52,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0392-is-subsequence) |
 | [2460-apply-operations-to-an-array](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/2460-apply-operations-to-an-array) |
 ## Greedy
 |  |
@@ -63,6 +64,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0055-jump-game) |
+| [0392-is-subsequence](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
