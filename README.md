@@ -35,6 +35,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/2460-apply-operations-to-an-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,4 +101,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Math
+|  |
+| ------- |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 <!---LeetCode Topics End-->
