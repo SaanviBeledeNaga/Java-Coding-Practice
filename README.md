@@ -30,6 +30,7 @@
 | [0134-gas-station](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0724-find-pivot-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -53,6 +54,7 @@
 | ------- |
 | [0015-3sum](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0274-h-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Counting
@@ -100,6 +102,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0274-h-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
