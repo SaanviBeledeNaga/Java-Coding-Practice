@@ -65,6 +65,7 @@
 | [0015-3sum](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0392-is-subsequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/2460-apply-operations-to-an-array) |
@@ -93,6 +94,7 @@
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0392-is-subsequence) |
 ## Counting Sort
 |  |
