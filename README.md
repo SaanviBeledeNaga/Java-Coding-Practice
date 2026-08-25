@@ -29,6 +29,7 @@
 | [0055-jump-game](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0134-gas-station) |
+| [0162-find-peak-element](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0274-h-index) |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0704-binary-search) |
 ## Interactive
