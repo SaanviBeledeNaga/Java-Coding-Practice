@@ -24,6 +24,7 @@
 | [0011-container-with-most-water](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -120,5 +121,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
