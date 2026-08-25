@@ -33,6 +33,7 @@
 | [0274-h-index](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0324-wiggle-sort-ii) |
+| [0704-binary-search](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0724-find-pivot-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -116,4 +117,8 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0324-wiggle-sort-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
