@@ -46,6 +46,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0205-isomorphic-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
@@ -104,6 +105,7 @@
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0392-is-subsequence) |
 ## Counting Sort
