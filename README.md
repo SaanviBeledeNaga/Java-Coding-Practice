@@ -25,6 +25,7 @@
 | [0015-3sum](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0409-longest-palindrome) |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0324-wiggle-sort-ii) |
@@ -108,6 +111,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0392-is-subsequence) |
