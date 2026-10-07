@@ -147,6 +147,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0226-invert-binary-tree) |
@@ -161,12 +162,14 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0226-invert-binary-tree) |
