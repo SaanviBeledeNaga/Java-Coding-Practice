@@ -98,6 +98,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0392-is-subsequence) |
 ## Simulation
@@ -127,6 +128,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0070-climbing-stairs) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Quickselect
 |  |
@@ -173,4 +175,8 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0226-invert-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
