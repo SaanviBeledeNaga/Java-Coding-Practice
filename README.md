@@ -185,8 +185,13 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0203-remove-linked-list-elements) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
