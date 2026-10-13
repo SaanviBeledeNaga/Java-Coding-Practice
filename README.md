@@ -186,6 +186,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0328-odd-even-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -195,4 +196,5 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/SaanviBeledeNaga/Java-Coding-Practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
